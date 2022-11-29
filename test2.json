@@ -1,0 +1,16 @@
+[
+  {
+    "id": 332345,
+    "Start": "Moscow",
+    "End": "Minsk",
+    "Class": "SV",
+    "Time": 23
+  },
+  {
+    "id": 222,
+    "Start": "Minsk",
+    "End": "Moscow",
+    "Class": "SV",
+    "Time": 10
+  }
+]
